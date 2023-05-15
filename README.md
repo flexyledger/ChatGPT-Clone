@@ -20,7 +20,8 @@ This project is currently under development and may not be feature-complete or f
 
 1. Clone the repository: `git clone https://github.com/flexyledger/ChatGPT-Clone.git`
 2. Install the dependencies: `pip install langchain dotenv`
-
+3. Configure your .env API through OPENAI_API_KEY=" "
+4. Use https://openai.com/ to generate your own API key.
 ## Usage
 
 1. Run the main script: `python main.py`
