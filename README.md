@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 > Mama mo warning
 > Papa mo warning
 
-> Will create table
+> Will create tablef
 > And Topic
 > Partial code only
 > Idol Luka
