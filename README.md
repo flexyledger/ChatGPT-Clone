@@ -55,8 +55,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 > Crucial Important deep shit to refactor
 
 > [!WARNING]
-> Mama mo warning
-> Papa mo warning
+> warning
+> warning
 
 > Will create tablef
 > And Topic
@@ -67,4 +67,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 > No code for today
 > Will do this in weekend
 > Will do this later
+
 -->
